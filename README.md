@@ -4,8 +4,8 @@ I'm Olga, a Data Scientist and Machine Learning Engineer with over 3 years of ex
 ### 🛠️ Tech Stack
 - **Programming Languages:** Python, SQL
 - **Deep learning modeling**: PyTorch, Transformer architectures, Hugging Face, Weights & Biases
-- **Natural language processing Tools**: Word2Vec, SpaCy, BERT, vector similarity ( FAISS ) 
-- **Speech Recognition packages**: Whisper, Torch audio, Wave2vec, HuBERT, Librosa
+- **Natural language processing**: Word2Vec, SpaCy, BERT, vector similarity ( FAISS ) 
+- **Speech Recognition**: Whisper, Torch audio, Wave2vec, HuBERT, Librosa
 - **Large Language Models (LLM)**: Prompt engineering, Ollama, Llama, Mistral, OpenAI, LangChain, LlamaIndex, Retrieval Augmented Generation ( RAG )
 - **Deployment and Cloud technologies**: AWS, Docker
 
