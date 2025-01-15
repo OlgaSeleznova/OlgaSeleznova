@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there 👋
+I'm Olga, a Data Scientist and Machine Learning Engineer with over 3 years of experience in Deep Learning, Natural Language Processing (NLP), Large Language Modeling (LLMs), and Speech Recognition. I love building impactful solutions and solving challenging problems.
 
-<!--
-**OlgaSeleznova/OlgaSeleznova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack
+- **Programming Languages:** Python, SQL
+- **Deep learning modeling**: PyTorch, Transformer architectures, Hugging Face, Weights & Biases
+- **Natural language processing Tools**: Word2Vec, SpaCy, BERT, vector similarity ( FAISS ) 
+- **Speech Recognition packages**: Whisper, Torch audio, Wave2vec, HuBERT, Librosa
+- **Large Language Models (LLM)**: Prompt engineering, Ollama, Llama, Mistral, OpenAI, LangChain, LlamaIndex, Retrieval Augmented Generation ( RAG )
+- **Deployment and Cloud technologies**: AWS, Docker
 
-Here are some ideas to get you started:
+### 🌟 Projects
+- [Job Matching System](https://github.com/OlgaSeleznova/JobPostingRelevancy): A tool to determine resume relevance to job postings.
+- [Language Learning Assistant](https://github.com/OlgaSeleznova/VoyageVocab): A tool to create multilingual assistance for traveling
+  
+### 📫 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/olga-seleznova/)
+- [Email](mailto:Olgaselesnyova@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=OlgaSeleznova&color=blue)
+![Olga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlgaSeleznova&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaSeleznova&layout=compact)
