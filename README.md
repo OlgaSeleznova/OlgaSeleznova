@@ -16,9 +16,3 @@ I'm Olga, a Data Scientist and Machine Learning Engineer with over 3 years of ex
 ### 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/olga-seleznova/)
 - [Email](mailto:Olgaselesnyova@gmail.com)
-
-![](https://komarev.com/ghpvc/?username=OlgaSeleznova&color=blue)
-
-![Olga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlgaSeleznova&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlgaSeleznova&layout=compact)
